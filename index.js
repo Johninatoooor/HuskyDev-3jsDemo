@@ -8,7 +8,7 @@ import * as THREE from "https://unpkg.com/three@0.127.0/build/three.module.js";
 import { GLTFLoader } from "https://cdn.jsdelivr.net/npm/three@0.127.0/examples/jsm/loaders/GLTFLoader.js";
 
 // *** This is the path to your asset. Replace "cube" with the name of your file ***
-const assetPath = "assets/cube.glb"
+const assetPath = "assets/test.glb"
 
 const canvas = document.querySelector(".webgl");    // Retrieves the canvas 'object(?)' thing that is in the body of the html
 const scene = new THREE.Scene();                    // Creates a new 3js scene
