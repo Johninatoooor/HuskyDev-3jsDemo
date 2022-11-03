@@ -1,0 +1,22 @@
+{
+  "name": "huskydev-3jsdemo",
+  "version": "1.0.0",
+  "description": "A boiler plate template for running an introductory workshop on hosting a public facing 3js website to show off your cool 3d objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johninatoooor/HuskyDev-3jsDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johninatoooor/HuskyDev-3jsDemo/issues"
+  },
+  "homepage": "https://github.com/Johninatoooor/HuskyDev-3jsDemo#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
